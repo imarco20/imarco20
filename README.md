@@ -23,7 +23,7 @@ In the beginning of 2020, shortly after Covid broke into Egypt, I started teachi
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/@marcosalam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@marcosalam" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/marco-mounir-2018/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marco-mounir-2018/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/marco-mounir-2018/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/marco-mounir-2018/" height="30" width="40" /></a>
 <a href="https://kaggle.com/marcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="marcode" height="30" width="40" /></a>
 <a href="https://medium.com/@marcode420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@marcode420" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/marcode20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="marcode20" height="30" width="40" /></a>
