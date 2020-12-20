@@ -2,7 +2,7 @@
 
 ### My name is Marco,
 
-I analyze data to understand the world around me. I speak for numbers and imbue them with meaning. I also enjoy having deep enlightening conversations with influential people on my podcast “Hayah AKtar”.
+I analyze data to understand the world around me. I speak for numbers and imbue them with meaning. I also enjoy having deep enlightening conversations with influential people on my podcast “Hayah Aktar”.
 
 I am a graduate of the **faculty of engineering, Aerospace Department**, at Cairo university. I started my career before graduating out of college, by working as **the youngest "*Thinking Into Results*" program faciliatior** in the world. Few years later, I founded my own startup "*Increase*", and hosted "*Hayah Aktar*" podcast, which is one the most listened to podcasts in the Arab world.
 
@@ -16,7 +16,7 @@ In the beginning of 2020, shortly after Covid broke into Egypt, I started teachi
 
 - 💬 Ask me about **NLP, Machine Learning**
 
-- 📫 How to reach me **marco@carawan.fm**
+- 📫 How to reach me **marco@increaseeg.com**
 
 - ⚡ Fun fact **As I come from a training background, I've always thought about NLP as Neuro-Linguistic Programming. But now, I think of it as Natural Language Processing**
 
