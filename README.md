@@ -12,7 +12,7 @@ In the beginning of 2020, shortly after Covid broke into Egypt, I started teachi
 
 - 👨‍💻 All of my projects are available at [https://imarco20.github.io/](https://imarco20.github.io/)
 
-- 📝 I regulary write articles on [https://imarco20.github.io/meaningful-data/](https://imarco20.github.io/meaningful-data/)
+- 📝 I write articles on [https://imarco20.github.io/meaningful-data/](https://imarco20.github.io/meaningful-data/)
 
 - 💬 Ask me about **NLP, Machine Learning**
 
