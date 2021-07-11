@@ -2,19 +2,19 @@
 
 ### My name is Marco,
 
-I analyze data to understand the world around me. I speak for numbers and imbue them with meaning. I also enjoy having deep enlightening conversations with influential people on my podcast “Hayah Aktar”.
+I am a software engineer experience in developing RESTful web services driven by tests (TDD) in languages like Go, Java, and Python.
 
 I am a graduate of the **faculty of engineering, Aerospace Department**, at Cairo university. I started my career before graduating out of college, by working as **the youngest "*Thinking Into Results*" program faciliatior** in the world. Few years later, I founded my own startup "*Increase*", and hosted "*Hayah Aktar*" podcast, which is one the most listened to podcasts in the Arab world.
 
-In the beginning of 2020, shortly after Covid broke into Egypt, I started teaching myself software development. I studied *Algorithms & Data Structures*, and wrote code in *Python*. I solved hundreds of problems on *LeetCode*. I discovered my passion for working with and analyzing data, so I started learning **Data Science** and **Machine Learning**.
+In the beginning of 2020, shortly after Covid broke into Egypt, I started teaching myself software development. I studied *Algorithms & Data Structures*, and wrote code in *Python*. I solved hundreds of problems on *LeetCode*. And I started developing passion for solving real world problems using software and learning new things and technologies everyday.
 
-- 🌱 I’m currently learning **Machine Learning Model Interpretation**
+- 🌱 I’m currently reading **Test-Driven Development by Example**, a book by **Kent Beck**
 
 - 👨‍💻 All of my projects are available at [https://imarco20.github.io/](https://imarco20.github.io/)
 
-- 📝 I write articles on [https://imarco20.github.io/meaningful-data/](https://imarco20.github.io/meaningful-data/)
+- 📝 I write articles on [my Hashnode Blog](https://marcode20.hashnode.dev/)
 
-- 💬 Ask me about **NLP, Machine Learning**
+- 💬 Ask me about **Golang, and Test-Driven-Development**
 
 - 📫 How to reach me **marco@increaseeg.com**
 
@@ -30,7 +30,7 @@ In the beginning of 2020, shortly after Covid broke into Egypt, I started teachi
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="Go" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://golang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="Go" width="80" height="80"/> </a> <a href="https://java.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-vertical.svg" alt="python" width="60" height="80"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="Google Cloud" width="80" height="60"/> </a>  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" width="100" height="80"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="60"/> </a> <a href="" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="Elasticsearch" width="100" height="80"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="80"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="postgresql" width="100" height="80"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="Angular" width="100" height="80"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imarco20&layout=compact" alt="imarco20" /></p>
 
