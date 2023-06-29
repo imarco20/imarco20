@@ -8,7 +8,7 @@ I am a graduate of the **faculty of engineering, Aerospace Department**, at Cair
 
 In the beginning of 2020, shortly after Covid broke into Egypt, I started teaching myself software development. I studied *Algorithms & Data Structures*, and wrote code in *Python*. I solved hundreds of problems on *LeetCode*. And I started developing passion for solving real world problems using software and learning new things and technologies everyday.
 
-- 🌱 I’m currently reading **Test-Driven Development by Example**, a book by **Kent Beck**
+- 🌱 I’m currently reading **Designing Data-Intensive Applications**, a book by **Martin Kleppmann**
 
 - 👨‍💻 All of my projects are available at [https://imarco20.github.io/](https://imarco20.github.io/)
 
